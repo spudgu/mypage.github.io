@@ -1,0 +1,9 @@
+<Components.Tex
+	position="absolute"
+	top="auto"
+	right="auto"
+	bottom="36px"
+	left="473px"
+	width="79.7375px"
+	height="53.538012207031244px"
+/>
