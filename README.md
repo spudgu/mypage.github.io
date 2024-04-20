@@ -1,9 +1,11 @@
-<Components.Tex
-	position="absolute"
+<Text
+	margin="0px 0px 0px 0px"
+	position="fixed"
 	top="auto"
-	right="auto"
-	bottom="36px"
-	left="473px"
-	width="79.7375px"
-	height="53.538012207031244px"
-/>
+	bottom="34px"
+	height="51.200018310546874px"
+	right="600px"
+	left="auto"
+	width="72.0375px"
+>
+ My Hangout</Text>
