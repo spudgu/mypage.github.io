@@ -1,18 +1,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <style>h1 {
-    position:relative;
-    left:250px;
-    top:20px;
-    }
-        p {position:relative;
-    left:260px;
-    top:40px;
-            font-size:20px;
-        }
-    </style>
-        
     </head>
     <body>
 
