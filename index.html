@@ -1,20 +1,22 @@
 <!DOCTYPE html>
 <html>
     <head>
-    h1 {
+    <style>h1 {
     position:relative;
-    left:250px;
-    top:20px;
+    left:200px;
+    top:25px;
     }
         p {position:relative;
-    left:260px;
+    left:210px;
     top:40px;
             font-size:20px;
         }
+    </style>
+        
     </head>
     <body>
 
-  <h1>Spudgu's Hangout</h1>
+  <h1>My Hangout</h1>
     <p>Nothing Here Yet...</p>
 
     </body>
